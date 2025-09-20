@@ -1,3 +1,5 @@
+![封面](封面.png)
+
 # Blendshape范围修改工具 使用说明
 
 一个用于 **批量“限幅/缩放” BlendShape** 的 Unity 编辑器工具。  
